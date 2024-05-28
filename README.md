@@ -1,0 +1,1 @@
+# -Piyasalar-SuperTrend-ile-Takip
