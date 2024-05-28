@@ -33,7 +33,6 @@ markets = [
     {'symbol': 'BTC-USD'},  # Bitcoin
     {'symbol': 'ETH-USD'},  # Ethereum
     {'symbol': 'AVAX-USD'},  # Avalanche
-    {'symbol': 'SOL-USD'},  # Solana
 ]
 
 # Email settings
